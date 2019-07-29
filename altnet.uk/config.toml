@@ -1,0 +1,25 @@
+baseURL = "https://altnet.uk/"
+languageCode = "en-gb"
+title = "AltNet UK"
+theme = "pulp"
+
+canonifyurls = true
+hasCJKLanguage = true
+
+[params]
+    author = "AltNet UK"
+    description = """
+        Website for the AltNet UK Community<br />
+        Join our Slack Workspace here
+    """
+    avatar = "network.png"
+
+[outputs]
+    sectioon = ["JSON", "HTML"]
+
+[[menu.main]]
+    identifier = "github"
+    # name = "Github"
+    pre = "<i class='fab fa-github fa-lg'></i>"
+    url = "https://github.com/alt-net-uk"
+    weight = 30
