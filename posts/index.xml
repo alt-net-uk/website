@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on AltNet UK</title>
+    <link>https://altnet.uk/posts/</link>
+    <description>Recent content in Posts on AltNet UK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 29 Jul 2019 15:10:46 +0100</lastBuildDate>
+    
+	<atom:link href="https://altnet.uk/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AltNet UK</title>
+      <link>https://altnet.uk/posts/home/</link>
+      <pubDate>Mon, 29 Jul 2019 15:10:46 +0100</pubDate>
+      
+      <guid>https://altnet.uk/posts/home/</guid>
+      <description>This is a test of some content done with Hugo.
+I like to test how carriage returns and new lines are handled. Some generators handle them differently to others.</description>
+    </item>
+    
+  </channel>
+</rss>
