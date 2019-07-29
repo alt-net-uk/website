@@ -10,7 +10,8 @@ hasCJKLanguage = true
     author = "AltNet UK"
     description = """
         Website for the AltNet UK Community<br />
-        Join our Slack Workspace here
+        Join our Slack Workspace here<br />
+        <script async defer src="https://slackin.altnet.uk/slackin.js?large"></script>
     """
     avatar = "network.png"
 
