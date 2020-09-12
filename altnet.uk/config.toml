@@ -10,8 +10,8 @@ hasCJKLanguage = true
     author = "AltNet UK"
     description = """
         Website for the AltNet UK Community<br />
-        Join our Slack Workspace here<br />
-        <script async defer src="https://slackin.altnet.uk/slackin.js?large"></script>
+        Join our Slack Workspace <a href="https://join.slack.com/t/altnetuk/shared_invite/zt-cw6d5mvm-w6VNMLRryk0o_oxVGjMbKQ">here</a>.<br />
+        (Due to recent changes Slack have made external invites really frustrating. If the above link doesn't work hit up whoever directed you to this page and let them know so we can refresh it)
     """
     avatar = "network.png"
 
