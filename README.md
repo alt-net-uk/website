@@ -3,7 +3,7 @@ For the website at AltNet.uk
 
 Builds using Hugo available from gohugo.io
 
-Theme and public folder are included as gut submodules, ie:
+Theme and public folder are included as git submodules, ie:
 
 ```$ git clone git@github.com:alt-net-uk/website.git altnetWebsite --recurse-submodules```
 
