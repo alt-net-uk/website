@@ -1,3 +1,7 @@
 [submodule "altnet.uk/themes/pulp"]
 	path = altnet.uk/themes/pulp
 	url = https://github.com/koirand/pulp.git
+[submodule "altnet.uk/public"]
+	path = altnet.uk/public
+	url = git@github.com:alt-net-uk/website.git
+	branch = gh-pages
